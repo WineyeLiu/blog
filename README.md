@@ -14,6 +14,8 @@ developing...
 
 * neat & fit
 
+* use monospace font 
+
 ## Project info 
 
 Angular Cli 10.1.7
